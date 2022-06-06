@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: iobruno/fastapi-model-serve
+    image: iobruno/fastapi-model-serve-arm64
     ports:
       - "8000:8000"
     environment:
