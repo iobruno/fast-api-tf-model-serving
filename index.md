@@ -17,6 +17,5 @@ Finalmente, para torná-la mais acessível ao público em geral, foi desenvolvid
 **Palavras-chave**: Classificação de Imagens, Redes Neurais Convolucionais, Redes Neurais Profundas
 
 ### Autores
-Bruno Pereira de Oliveira
-Victor Okada
-
+- Bruno Pereira de Oliveira (bruno.ariev@gmail.com)
+- Victor Okada (victoryassu@hotmail.com)
