@@ -1,5 +1,9 @@
 ## Classificação de Imagens com Deep Learning
 
+<img src="imgs/image_classification_dl.png" width=1080 />
+
+<img src="imgs/tools_and_frameworks.png" width=1080 />
+
 ### Resumo
 
 Este trabalho visa apresentar um modelo de Machine Learning baseado em redes neurais profundas (Deep Learning) para classificação de imagens em dez entidades (aviões, carros, pássaros, gatos, cervos, cães, sapos, cavalos, navios e caminhões), utilizando o dataset CIFAR-10 para o treinamento da rede.
