@@ -24,4 +24,5 @@ dependencies = [
 [tool.pdm.dev-dependencies]
 dev = [
     "ruff>=0.1.6",
+    "jupyterlab>=4.0.11",
 ]
